@@ -1,6 +1,6 @@
 <template>
   <div class="todo-container">
-    <h1>Todo List</h1>
+    <h1>Daftar Kegiatan</h1>
 
     <!-- Input untuk menambah kegiatan baru -->
     <div class="input-group">
